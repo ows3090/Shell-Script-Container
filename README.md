@@ -1,6 +1,6 @@
 ## This is a collection of shell scripts
 
-### commit.sh
+### 1. commit.sh
 git add -A <br>
 git commit -m "message" <br>
 git push origin master <br>

@@ -1,9 +1,8 @@
 ## This is a collection of shell scripts
-<br>
 
 ### commit.sh
-git add -A
-git commit -m "message"
-git push origin master
+git add -A <br>
+git commit -m "message" <br>
+git push origin master <br>
 
-####command : ./commit.sh "message"
+#### command : ./commit.sh "message"
